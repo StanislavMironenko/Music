@@ -1,0 +1,11 @@
+.tracks {}
+
+.equalizer {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+
+    &__menu {}
+
+    &__svg {}
+}
