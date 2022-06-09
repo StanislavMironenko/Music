@@ -1,0 +1,58 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="e16" viewBox="0 0 6 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.8" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6957" stroke="#000" d="M0.348 0.348h4.87v31.304h-4.87z"></path>
+</symbol>
+<symbol id="e15" viewBox="0 0 4 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.8" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5517" stroke="#000" d="M0.276 0.276h3.862v31.448h-3.862z"></path>
+</symbol>
+<symbol id="e14" viewBox="0 0 18 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.2" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.2857" stroke="#000" d="M1.143 1.143h16v29.714h-16z"></path>
+</symbol>
+<symbol id="e13" viewBox="0 0 11 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.3" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.3333" stroke="#000" d="M0.667 0.667h9.333v30.667h-9.333z"></path>
+</symbol>
+<symbol id="e12" viewBox="0 0 5 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.6" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5926" stroke="#000" d="M0.296 0.296h4.148v31.407h-4.148z"></path>
+</symbol>
+<symbol id="e11" viewBox="0 0 6 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.55" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6957" stroke="#000" d="M0.348 0.348h4.87v31.304h-4.87z"></path>
+</symbol>
+<symbol id="e10" viewBox="0 0 7 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.5" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.8421" stroke="#000" d="M0.421 0.421h5.895v31.158h-5.895z"></path>
+</symbol>
+<symbol id="e9" viewBox="0 0 9 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.4" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.1429" stroke="#000" d="M0.571 0.571h8v30.857h-8z"></path>
+</symbol>
+<symbol id="e8" viewBox="0 0 5 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.8" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5714" stroke="#000" d="M0.286 0.286h4v31.429h-4z"></path>
+</symbol>
+<symbol id="e7" viewBox="0 0 6 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.6" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.7619" stroke="#000" d="M0.381 0.381h5.333v31.238h-5.333z"></path>
+</symbol>
+<symbol id="e6" viewBox="0 0 5 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.9" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6154" stroke="#000" d="M0.308 0.308h4.308v31.385h-4.308z"></path>
+</symbol>
+<symbol id="e5" viewBox="0 0 4 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5161" stroke="#000" d="M0.258 0.258h3.613v31.484h-3.613z"></path>
+</symbol>
+<symbol id="e4" viewBox="0 0 7 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.6" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.8421" stroke="#000" d="M0.421 0.421h5.895v31.158h-5.895z"></path>
+</symbol>
+<symbol id="e3" viewBox="0 0 10 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.3" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.2308" stroke="#000" d="M0.615 0.615h8.615v30.769h-8.615z"></path>
+</symbol>
+<symbol id="e2" viewBox="0 0 5 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.8" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6154" stroke="#000" d="M0.308 0.308h4.308v31.385h-4.308z"></path>
+</symbol>
+<symbol id="e1" viewBox="0 0 6 32">
+<path fill="#7a66cc" style="fill: var(--color1, #7a66cc)" opacity="0.6" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6957" stroke="#000" d="M0.348 0.348h4.87v31.304h-4.87z"></path>
+</symbol>
+
+<!--  -->
+
+<symbol>
+
+</symbol>
+</defs>
+</svg>
